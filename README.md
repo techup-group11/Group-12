@@ -2,6 +2,4 @@
 
 Hello World 
 
-Description
-
 Another title

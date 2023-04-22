@@ -8,8 +8,8 @@
 }
 
 #foto1 {
-    width: 100%;
-      height: auto;
+    width: 500px;
+      height: 300px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -36,9 +36,9 @@ li a {
 }
 
 li a:hover {
-    background-color: #5ADBFF;
+    background-color: red;
     height: 22px;
-    color: #247BA0;
+    color: black;
 }
 
 table {
@@ -63,5 +63,13 @@ th {
 .footer {
     background-color: #5ADBFF;
     padding: 0.5em;
-    text-align: right;
+    text-align: center;
+    
 }
+
+.festa{
+    font-size: 50px;
+    color: chartreuse;
+
+}
+
